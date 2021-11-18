@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 <a href="http://jayamedika.co.id">PCR Reagen</a>
 <a href="https://mhdexpress.co.id/">Jasa kirim mobil</a>
 <a href="https://eufouria.com.au/service/roof-cleaning/">Roof Cleaning</a>
+<a href="https://kumparan-jasa.jimdosite.com/">More Good Things</a>
